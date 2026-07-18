@@ -92,6 +92,7 @@
   `https://raw.githubusercontent.com/iOsa01/pdf-editor-releases/main/latest.json`
 
 رمز QR داخل شاشة "حول التطبيق" يشير إلى صفحة الإصدارات الأخيرة.
+هذا يطابق طريقة نبضة: QR يفتح صفحة التحميل الثابتة `releases/latest`، بينما `latest.json` يحتوي رابط APK المباشر الذي يستخدمه فاحص التحديث.
 
 ## التقنيات | Tech Stack
 
