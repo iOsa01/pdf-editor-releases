@@ -112,9 +112,9 @@
 
 | البند | القيمة |
 | --- | --- |
-| الإصدار | 0.1.0 |
-| versionCode | 1 |
-| الحزمة | `com.docuforge` |
+| الإصدار | 0.1.2 |
+| versionCode | 3 |
+| الحزمة | `com.pdfeditor.local` |
 | minSdk | 28 |
 | targetSdk | 35 |
 | نوع الملف | APK موقّع |
